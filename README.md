@@ -3,11 +3,11 @@
   
   <p align="center">
     
-<a href="#"><img title="Elsa Mwol"
+<a href="#"><img title="G-BOT"
  src="https://img.shields.io/badge/-Elsa%20Mowl-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
  
 ## Subscriber My Channel More Updates Coming Soon..
@@ -15,7 +15,7 @@
 ![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
 
  ##
-https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
+
  
 # 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -26,7 +26,7 @@ Click WA logo to Join Support Group 👇
  
 
 
-# Elsa Mwol WhatsApp Bot 
+# G-BOT WhatsApp Bot 
 
 # Setup
 <div align="center">
@@ -48,7 +48,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/J-I-H-A-D/ElsaMwol
-$ cd ElsaMwol
+$ cd G-BOT
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -58,8 +58,8 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
-$ cd ElsaMwol
+$ git clone https://github.com/G-O-K-U-L/G-BOT
+$ cd G-BOT
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -72,12 +72,12 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, G-O-K-U-L do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
 
 
-Project created by JIHAD to make it public
+
 
 © Reserved
